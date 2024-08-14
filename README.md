@@ -30,10 +30,4 @@ This is the frontend for the Cloud Notebook application, a MERN stack project th
 - **ESLint:**  
   For code linting and ensuring code quality.
 
-## Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/cloud-notebook-frontend.git
-   cd cloud-notebook-frontend
